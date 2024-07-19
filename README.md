@@ -8,9 +8,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=Xiaohan2331&show_icons=true&theme=tokyonight)
 
 ### Xiaohan's Blog and Mail ###
-#[XiaoHan's Blog](http://catworld.icu "XiaoHan's Blog")
-[![XiaoHan's Blog](https://img.shields.io/badge/XiaoHan's_Blog-blue)](http://catworld.icu)
-
-[![XiaoHan's Mail](https://img.shields.io/badge/XiaoHan's_Mail-blue)](mailto:xiaohan3718@gmail.com)
-#[XiaoHan's Mail](xiaohan3718@gmail.com "XiaoHan's Mail")
+[![XiaoHan's Blog](https://img.shields.io/badge/XiaoHan's_Blog-blue)](http://catworld.icu) [![XiaoHan's Mail](https://img.shields.io/badge/XiaoHan's_Mail-blue)](mailto:xiaohan3718@gmail.com)
 
