@@ -1,8 +1,12 @@
-# 这里是 Xiaohan2130 的主页 #
-## 个人介绍 ##
+# Here is the homepage of Xiaohan2130 #
+Personal introduction
 >
->一个不会写代码的学生 QwQ
+>A student who can't code QwQ
 >
->~~还有点憨~~
-### Xiaohan2331 Github 统计卡 ###
+
+## Xiaohan2331's Github Stats Card ##
 ![](https://github-readme-stats.vercel.app/api?username=Xiaohan2331&show_icons=true&theme=tokyonight)
+
+### Xiaohan's Blog and Mail ###
+[XiaoHan's Blog](http://catworld.icu "XiaoHan's Blog")
+[XiaoHan's Mail](xiaohan3718@gmail.com "XiaoHan's Mail")
