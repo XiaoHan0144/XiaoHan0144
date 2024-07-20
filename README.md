@@ -1,7 +1,7 @@
 # Here is the homepage of XiaoHan0144 #
 **Personal introduction**
 >
->A student who can't code QwQ
+>Is a student who is trying to learn programming QwQ
 >
 
 ## XiaoHan0144's Github Stats Card ##
